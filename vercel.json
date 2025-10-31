@@ -1,0 +1,8 @@
+{
+  "projects": [
+    {
+      "name": "task2-frontend",
+      "rootDirectory": "frontend"
+    }
+  ]
+}
